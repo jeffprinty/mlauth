@@ -9,9 +9,12 @@ Repository for research and snippets relating to login and authorization with a 
 * [NIST Digital Identity Guidelines (PDF)](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf)
 * [What the Most Common Passwords of 2016 List Reveals [Research Study] - Keeper BlogKeeper Blog](https://blog.keepersecurity.com/2017/01/13/most-common-passwords-of-2016-research-study/)
 * [How to Make Your Passwords More Secure — BizTech](https://biztechmagazine.com/article/2017/03/how-make-your-passwords-more-secure)
+* [Toward Better Password Requirements](https://www.slideshare.net/jim_fenton/toward-better-password-requirements)
 
 # Security Questions
 * [The Curse of the Secret Question - Schneier on Security](https://www.schneier.com/blog/archives/2005/02/the_curse_of_th.html)
+* [Choosing and Using Security Questions Cheat Sheet - OWASP](https://www.owasp.org/index.php/Choosing_and_Using_Security_Questions_Cheat_Sheet)
+* [Security Questions Considered Harmful](https://www.slideshare.net/jim_fenton/security-questions-considered-harmful)
 
 # FCC Order, 2007
 
