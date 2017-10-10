@@ -37,3 +37,4 @@ Repository for research and snippets relating to login and authorization with a 
 
 > 55 “Readily available biographical information” includes such things as the customer’s social security number, or the last four digits of that number; the customer’s mother’s maiden name; a home address; or a date of birth. 
 
+![](http://1.bp.blogspot.com/-YnMlo7C3h0g/VV4EoNH2LJI/AAAAAAAAAFo/gI0AeUTnUwo/s1600/Beutler_Google_passwords-v6c.png)
